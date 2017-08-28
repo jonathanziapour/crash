@@ -1,0 +1,62 @@
+[
+	{
+		"npc_id": 0,
+		"npc_name": "Crestfallen NPC",
+		"dialogue_id": 0,
+		"dialogue_text": "Oh... you're talking to me?"
+	},
+	{
+		"npc_id": 0,
+		"npc_name": "Crestfallen NPC",
+		"dialogue_id": 1,
+		"dialogue_text": "It's been a while since I've had anyone to talk to... I think I've lost the taste for it honestly, so I'll make this brief."
+	},
+	{
+		"npc_id": 0,
+		"npc_name": "Crestfallen NPC",
+		"dialogue_id": 2,
+		"dialogue_text": "There were others before you, but they've all either passed on or gone mad. I've watched it all for a decade now. Or maybe two decades, I'm not sure."
+	},
+	{
+		"npc_id": 0,
+		"npc_name": "Crestfallen NPC",
+		"dialogue_id": 3,
+		"dialogue_text": "And secondly, I suppose you'll want to know where you are. Am I right?"
+	},
+	{
+		"npc_id": 0,
+		"npc_name": "Crestfallen NPC",
+		"dialogue_id": 4,
+		"dialogue_text": "Well, I don't know. I can't remember how I ended up here, or where I was going. You know, before. Nobody can."
+	},
+	{
+		"npc_id": 0,
+		"npc_name": "Crestfallen NPC",
+		"dialogue_id": 5,
+		"dialogue_text": "But you've got a choice. I've made mine. "
+	},
+	{
+		"npc_id": 0,
+		"npc_name": "Crestfallen NPC",
+		"dialogue_id": 6,
+		"dialogue_text": "I was holding onto this, just in case. You should take it, I don't need it anymore. "
+	},
+	{
+		"npc_id": 0,
+		"npc_name": "Crestfallen NPC",
+		"dialogue_id": 7,
+		"dialogue_text": "Now leave me alone, please. I need time to think. To remember."
+	},
+		{
+		"npc_id": 1,
+		"npc_name": "Unknown NPC",
+		"dialogue_id": 0,
+		"dialogue_text": " 1 dialogue text 0"
+	},
+	{
+		"npc_id": 1,
+		"npc_name": "Unknown NPC",
+		"dialogue_id": 1,
+		"dialogue_text": " 1 dialogue text 1"
+	}
+]
